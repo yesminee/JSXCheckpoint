@@ -1,0 +1,44 @@
+h5 {
+  text-align: center !important;
+  color:#e60000 !important;
+}
+h6 {
+  text-align: center !important;
+  color:#cc0044 !important;
+}
+h3{
+  text-align: center;
+  color:#4d0028;
+}
+
+.bigDiv{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-right:215px;
+  margin-left: 150px;
+  display: flex;
+  flex-direction: row;
+  border: solid 1px black;
+  
+}
+.btn-primary{
+  background-color:#ffcc00  !important;
+  border-color: #ffcc00 !important;
+}
+.btn{
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: -10px;
+  margin-bottom: 20px;
+}
+.card{
+  width:18rem !important;
+  margin-right:10px;
+  margin-left: 10px;
+
+}
+.main{
+  background-image: url('./image/imageInPublic.jpg');
+}
